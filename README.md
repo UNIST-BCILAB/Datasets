@@ -1,5 +1,5 @@
 # Datasets
-_All datasets require a PW request on the [lab homepage](https://www.unist-bci.com/datasets)
+_All datasets require a PW request on the [lab homepage](https://www.unist-bci.com/datasets)_
 
 ## 2020/08/05
 P300 BCI data
